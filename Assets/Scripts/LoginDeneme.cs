@@ -27,5 +27,6 @@ public class LoginDeneme: MonoBehaviour
         Debug.Log("buton");
         Debug.Log("buton");
         Debug.Log("buton");
+        Debug.Log("buton");
     }
 }
