@@ -4,5 +4,47 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/account 1.unity
+    guid: 578ce858c3cbd4eabbe07a66add5b9f0
+  - enabled: 1
+    path: Assets/Scenes/cardMain.unity
+    guid: 8b7d44e256ff14965925dc2d5d8881d0
+  - enabled: 1
+    path: Assets/Scenes/Cards.unity
+    guid: 2a5563123a4309443be48813e2562443
+  - enabled: 1
+    path: Assets/Scenes/changeLanguage.unity
+    guid: ea10638e593ae43fdbb89d1024d1e0b1
+  - enabled: 1
+    path: Assets/Scenes/GIDDS BANK.unity
+    guid: ed8a1bc26c1b2f449b01960aa4195a4b
+  - enabled: 1
+    path: Assets/Scenes/Invesements.unity
+    guid: 3cb86c20e76871647ac6628c0545b3d9
+  - enabled: 1
+    path: Assets/Scenes/loanapp.unity
+    guid: b0181924b50f741b89f3db6656608237
+  - enabled: 1
+    path: Assets/Scenes/login.unity
+    guid: 464b771d3b2eb44caad8050d3b3826dc
+  - enabled: 1
+    path: Assets/Scenes/menu.unity
+    guid: 540a4a80ad7ae4f00bb6de433d46c495
+  - enabled: 1
+    path: Assets/Scenes/moneyTransfer.unity
+    guid: 030f2f09491760f42918c041d23ca89a
+  - enabled: 1
+    path: Assets/Scenes/payment.unity
+    guid: cf8f7cba33ce9d44b9b55005a58a61e1
+  - enabled: 1
+    path: Assets/Scenes/register.unity
+    guid: 346718bd29a684e11b2eb14db86f7750
+  - enabled: 1
+    path: Assets/Scenes/viewAccounts.unity
+    guid: 2674da97423813a489c854a5006446ab
+  - enabled: 1
+    path: Assets/Scenes/ViewCardsStatement.unity
+    guid: 4f7d642203f902043b74ea1d932edd33
   m_configObjects: {}
