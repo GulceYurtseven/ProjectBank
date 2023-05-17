@@ -20,4 +20,28 @@ public class MenuManager : MonoBehaviour
     {
         SceneManager.LoadScene("loanapp");
     }
+    public void MenuToChangeLanguage()
+    {
+        SceneManager.LoadScene("changeLanguage");
+    }
+    public void MenuToMoneyTransfer()
+    {
+        SceneManager.LoadScene("moneyTransfer");
+    }
+    public void MenuToViewAccounts()
+    {
+        SceneManager.LoadScene("viewAccounts");
+    }
+    public void MenuToCards()
+    {
+        SceneManager.LoadScene("Cards");
+    }
+    public void MenuToInvestments()
+    {
+        SceneManager.LoadScene("Invesments");
+    }
+    public void MenuToPayments()
+    {
+        SceneManager.LoadScene("payment");
+    }
 }

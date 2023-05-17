@@ -21,7 +21,7 @@ EditorBuildSettings:
     path: Assets/Scenes/GIDDS BANK.unity
     guid: ed8a1bc26c1b2f449b01960aa4195a4b
   - enabled: 1
-    path: Assets/Scenes/Invesements.unity
+    path: Assets/Scenes/Invesments.unity
     guid: 3cb86c20e76871647ac6628c0545b3d9
   - enabled: 1
     path: Assets/Scenes/loanapp.unity
