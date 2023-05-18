@@ -44,4 +44,8 @@ public class MenuManager : MonoBehaviour
     {
         SceneManager.LoadScene("payment");
     }
+    public void MenuToMain()
+    {
+        SceneManager.LoadScene("accountMain");
+    }
 }
